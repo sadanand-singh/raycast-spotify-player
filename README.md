@@ -1,7 +1,7 @@
 # Spotify Player for Raycast
 
 This extension is a mini Spotify Player. Note that this ia based on beta raycast APIs and
-hence in heavy development. Any kind of help in developing additional features would be welcomed.
+hence in heavy development. Any kind of help in developing additional features is welcome.
 
 ## Setup and Installation
 
