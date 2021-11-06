@@ -35,7 +35,7 @@ git clone https://github.com/sadanand-singh/raycast-spotify-player.git
 cd raycast-spotify-player
 npm install
 cd src
-node authenticate.js "<Client ID>" "<Client Secret>"
+node authenticate.js <Client ID> <Client Secret>
 
 # This will output client_id, client_secret, access_token and refresh_token.
 # you need to take note of client_id, client_secret and refresh_token as they need to be
