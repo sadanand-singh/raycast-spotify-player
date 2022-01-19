@@ -253,6 +253,10 @@
           "value": "NP"
         },
         {
+          "title": "Nigeria",
+          "value": "NG"
+        },
+        {
           "title": "New Zealand",
           "value": "NZ"
         },
@@ -263,6 +267,14 @@
         {
           "title": "Peru",
           "value": "PE"
+        },
+        {
+          "title": "Palestine, State of",
+          "value": "PS"
+        },
+        {
+          "title": "Poland",
+          "value": "PL"
         },
         {
           "title": "Philippines",
@@ -325,6 +337,14 @@
           "value": "TR"
         },
         {
+          "title": "Tunisia",
+          "value": "TN"
+        },
+        {
+          "title": "Tajikistan",
+          "value": "TJ"
+        },
+        {
           "title": "Taiwan, Province of China",
           "value": "TW"
         },
@@ -355,26 +375,6 @@
         {
           "title": "United States Minor Outlying Islands",
           "value": "UM"
-        },
-        {
-          "title": "Tunisia",
-          "value": "TN"
-        },
-        {
-          "title": "Tajikistan",
-          "value": "TJ"
-        },
-        {
-          "title": "Palestine, State of",
-          "value": "PS"
-        },
-        {
-          "title": "Poland",
-          "value": "PL"
-        },
-        {
-          "title": "Nigeria",
-          "value": "NG"
         }
       ]
     }
